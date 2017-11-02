@@ -1,6 +1,6 @@
 # venmo-analysis
 
-Project to gain insight into a Venmo user's spending behavior via LDA topic modeling.
+Gain insight into a Venmo user's spending behavior via LDA topic modeling.
 
 Components:
 - Scrape.py - Scrape Venmo API for transaction information
